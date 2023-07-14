@@ -1,5 +1,3 @@
-# provothon
-
 # Project Title
 
 Code Automator and Review Generator using OpenAI Natural Language Understanding.
